@@ -8,10 +8,21 @@
                     </div>
                 </div>
                 <div class="info">
-                    <h3 class="title">{{item.name}}</h3>
+                    <h3 class="title">
+                        <a href="javascript:;">
+                            {{item.name}}
+                            <i class="i i-list"></i>
+                        </a>
+                    </h3>
                     <div class="stat">
-                        <a class="detail" :href="item.link">查看详情</a>
+                        <div class="top">
+                            <a class="detail" :href="item.link">查看详情</a>
+                            <i class="" :class="[item.is_finished ? 'checked' : '']"></i>
+                        </div>
+                        
+                        <a href="#" class="watch_link">补番通道</a>
                     </div>
+                    
                 </div>
             </div>
         </div>
