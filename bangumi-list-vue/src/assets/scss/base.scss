@@ -29,6 +29,8 @@
 
 // 全局
 body {
+    margin: 0;
+    padding: 0;
     background: #fff;
     font-size: 14px;
     color: #333;
@@ -66,9 +68,29 @@ body {
     padding: 0;
     overflow: hidden;
 }
+#header {
+    height: 60px;
+    .content {
+        height: 100%;
+        background: pink;
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+        h1 {
+            margin: 0 0 0 50px;
+            font-size: 24px;
+            line-height: 60px;
+        }
+    }
+}
+.banner {
+    height: 500px;
+    .banner-image {
+        background-position: left top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
 /* 列表 */
 .card-list {
-    margin-top: 100px;
     display: flex;
     flex-wrap: wrap;
     align-items: stretch;
@@ -76,6 +98,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     .item {
+        margin-top: 20px;
         min-width: 25%;
         max-width: 25%;
         padding: 0 15px;

@@ -1,18 +1,23 @@
 <template>
   <div id="app">
-
+    <mainHeader></mainHeader>
+    <banner></banner>
     <router-view></router-view>
   </div>
 </template>
 
 <script>
-import header from '@/components/header'
+import mainHeader from '@/components/header'
+import banner from '@/components/banner'
 export default {
   data() {
-
+    return {
+      
+    }
   },
   components: {
-
+    mainHeader,
+    banner
   }
 }
 </script>
