@@ -11,8 +11,8 @@ Vue.prototype.axios = axios
 
 Vue.use(VueLazyLoad, {
     preLoad: 1.3,
-    error: '/assets/img/loaderror.png',
-    loading: '/assets/img/lazyload.png',
+    error: './static/images/loaderror.png',
+    loading: './static/images/lazyload.png',
     attempt: 1
 });
 

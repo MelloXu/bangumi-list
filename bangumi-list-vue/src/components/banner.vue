@@ -37,6 +37,7 @@ export default {
         },
         setHeaderColor: function(){
             let img = document.querySelector('.hidden-image');
+            console.log(img);
             let $this = this;
             RGBaster.colors(img, {
                 paletteSize: 50, // 调色板大小
