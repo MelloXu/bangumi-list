@@ -42,6 +42,7 @@ export default {
                 paletteSize: 50, // 调色板大小
                 exclude: [ 'rgb(255,255,255)','rgb(0,0,0)' ],  // 不包括白色
                 success: function(payload) {
+                    console.log(payload.dominant);
                     // 设置背景色
                     $this.setColor.bgColor = payload.dominant;
                     // 提取颜色R、G、B值
