@@ -1,11 +1,11 @@
 <template>
-    <section class="banner">
-        <div class="card-text">
-            
-        </div>
-        <div class="banner-image" :style="{backgroundImage: 'url(' + img_src + ')'}"></div>
-        <img :src="img_src" class="hidden-image" alt="">
-    </section>
+  <section class="banner">
+      <div class="card-text">
+          
+      </div>
+      <div class="banner-image" :style="{backgroundImage: 'url(' + img_src + ')'}"></div>
+      <img :src="img_src" class="hidden-image" alt="">
+  </section>
 </template>
 
 <script>
