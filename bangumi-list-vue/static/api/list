@@ -1,31 +1,38 @@
-{
-    "list": [
-        {
-            "name": "侦探歌剧 少女福尔摩斯 TD",
-            "caption": "侦都横滨经常发生偶像的歌曲被夺走的事件。这一灾难也降临到超级偶像·天城茉莉音的头上，她的热门歌曲《奇迹之歌》也被夺走了。为此，Milky Holmes挺身而出。4人从茉莉音那里接受了夺回《奇迹之歌》的委托，为了帮助茉莉音，也为了解决事件而开始在演艺界奔走。究竟是何人为了什么而从偶像那里夺走歌曲？以及，取回被夺走的歌曲的方法又是什么？Milky Holmes的新的战斗，就此展开。",
-            "img_src": "http://lain.bgm.tv/pic/cover/l/fa/86/113631_1asIv.jpg",
-            "link": "http://bgm.tv/subject/113631",
-            "watch_link": "https://www.bilibili.com/video/av20470753",
-            "time": "2015.01",
-            "is_finished": false
-        },
-        {
-            "name": "绝对双刃",
-            "caption": "在《绝对双刃》的世界里，“焰牙”是凭借超化后的精神力将自己的灵魂具现化所创造出的武器。本作的主人公——九重透流，因为拥有这种千人中才有一人具备的能力，所以进入了教授使用“焰牙”作为战斗技术的昊陵学园就读。然而不知为何，透流的“焰牙”并非是武器，而是防具“楯”。就这样，因这种异能而受到了学校众人的关注的透流，遵照被称为“绊双刃”的学园拍档制度，须与银发美少女茱莉整天在同一房间里一同度过……故事也由此正式展开。",
-            "img_src": "http://lain.bgm.tv/pic/cover/l/1d/11/108757_G2Vgl.jpg",
-            "link": "http://bgm.tv/subject/108757",
-            "watch_link": "https://www.bilibili.com/bangumi/media/md1524",
-            "time": "2015.01",
-            "is_finished": true
-        },
-        {
-            "name": "百合熊风暴",
-            "caption": "有一天，小行星熊玛利亚星在宇宙的某处爆发，成就一群坠落地球的流星，使地球各处的熊发生异变。熊大举进食人类，人类再报以还击，结果造成没有战果和充满仇恨的恶性循环，直至两边不约而同筑起断绝之墙，期望以后互不侵犯……一天早上，呼啸山庄学园的学生——椿辉红羽和泉乃纯花，在学园的百合花坛里一同看见百合之花。二人于是成就“既为朋友，亦为恋人”的关系，并将花坛视为最重要的地方。就在此时，熊警报突然响起，揭示对方再度入侵人类世界，准备陷入混战。揭示这些熊的真实身份和目的之时，新谜题的出现带来新一波的怒涛，揭开背后华丽的每一幕……",
-            "img_src": "http://lain.bgm.tv/pic/cover/l/71/4a/59825_uK55k.jpg",
-            "link": "http://bangumi.tv/subject/59825",
-            "watch_link": "https://www.bilibili.com/bangumi/media/md4216",
-            "time": "2015.01",
-            "is_finished": false
-        }
-    ]
-}
+[
+    {
+        "name": "侦探歌剧 少女福尔摩斯 TD",
+        "caption": "侦都横滨经常发生偶像的歌曲被夺走的事件。这一灾难也降临到超级偶像·天城茉莉音的头上，她的热门歌曲《奇迹之歌》也被夺走了。为此，Milky Holmes挺身而出。4人从茉莉音那里接受了夺回《奇迹之歌》的委托，为了帮助茉莉音，也为了解决事件而开始在演艺界奔走。究竟是何人为了什么而从偶像那里夺走歌曲？以及，取回被夺走的歌曲的方法又是什么？Milky Holmes的新的战斗，就此展开。",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/fa/86/113631_1asIv.jpg",
+        "link": "http://bgm.tv/subject/113631",
+        "watch_link": "https://www.bilibili.com/video/av20470753",
+        "time": "2015.01",
+        "is_finished": false
+    },
+    {
+        "name": "绝对双刃",
+        "caption": "在《绝对双刃》的世界里，“焰牙”是凭借超化后的精神力将自己的灵魂具现化所创造出的武器。本作的主人公——九重透流，因为拥有这种千人中才有一人具备的能力，所以进入了教授使用“焰牙”作为战斗技术的昊陵学园就读。然而不知为何，透流的“焰牙”并非是武器，而是防具“楯”。就这样，因这种异能而受到了学校众人的关注的透流，遵照被称为“绊双刃”的学园拍档制度，须与银发美少女茱莉整天在同一房间里一同度过……故事也由此正式展开。",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/1d/11/108757_G2Vgl.jpg",
+        "link": "http://bgm.tv/subject/108757",
+        "watch_link": "https://www.bilibili.com/bangumi/media/md1524",
+        "time": "2015.01",
+        "is_finished": true
+    },
+    {
+        "name": "百合熊风暴",
+        "caption": "有一天，小行星熊玛利亚星在宇宙的某处爆发，成就一群坠落地球的流星，使地球各处的熊发生异变。熊大举进食人类，人类再报以还击，结果造成没有战果和充满仇恨的恶性循环，直至两边不约而同筑起断绝之墙，期望以后互不侵犯……一天早上，呼啸山庄学园的学生——椿辉红羽和泉乃纯花，在学园的百合花坛里一同看见百合之花。二人于是成就“既为朋友，亦为恋人”的关系，并将花坛视为最重要的地方。就在此时，熊警报突然响起，揭示对方再度入侵人类世界，准备陷入混战。揭示这些熊的真实身份和目的之时，新谜题的出现带来新一波的怒涛，揭开背后华丽的每一幕……",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/71/4a/59825_uK55k.jpg",
+        "link": "http://bangumi.tv/subject/59825",
+        "watch_link": "https://www.bilibili.com/bangumi/media/md4216",
+        "time": "2015.01",
+        "is_finished": false
+    },
+    {
+        "name": "元气少女缘结神◎",
+        "caption": "元气少女缘结神 第二季",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/0e/2c/109724_V5SZS.jpg",
+        "link": "http://bangumi.tv/subject/109724",
+        "watch_link": "https://www.bilibili.com/bangumi/media/md1523",
+        "time": "2015.01",
+        "is_finished": true
+    }
+]

@@ -103,8 +103,7 @@ body {
     flex-wrap: wrap;
     align-items: stretch;
     max-width: 85%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 30px auto;
     .item {
         margin-top: 20px;
         min-width: 25%;
@@ -166,10 +165,11 @@ body {
                 display: block;
                 text-decoration: none;
                 color: #333;
+                padding-right: 20px;
             }
             i {
                 position: absolute;
-                bottom: 0;
+                top: 2px;
                 right: 0;
                 width: 20px;
                 height: 20px;

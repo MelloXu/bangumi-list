@@ -52,7 +52,8 @@ export default {
   methods: {
       getList: function() {
           this.axios.get('./static/api/list').then((res)=> {
-             let info = res.data.list;
+             let info = res.data;
+             console.log(info.length);
              for(let i = 0, len = info.length; i < len; i++) {
                 let _name = info[i].name,
                     _caption = info[i].caption,
