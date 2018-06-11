@@ -61,5 +61,14 @@
         "watch_link": "https://www.bilibili.com/bangumi/media/md1551",
         "time": "2015.04",
         "is_finished": false
+    },
+    {
+        "name": "伪恋：",
+        "caption": "伪恋第二季",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/22/cd/114758_27XTt.jpg",
+        "link": "http://bangumi.tv/subject/114758",
+        "watch_link": "https://www.bilibili.com/bangumi/media/md1574",
+        "time": "2015.04",
+        "is_finished": false
     }
 ]
