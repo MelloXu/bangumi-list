@@ -70,5 +70,14 @@
         "watch_link": "https://www.bilibili.com/bangumi/media/md1574",
         "time": "2015.04",
         "is_finished": false
+    },
+    {
+        "name": "金田一少年事件簿R 2期",
+        "caption": "金田一少年事件簿R 2期",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/32/a8/139950_rp2fr.jpg",
+        "link": "http://bangumi.tv/subject/139950",
+        "watch_link": "http://www.iqiyi.com/a_19rrhb2729.html",
+        "time": "2015.10",
+        "is_finished": false
     }
 ]
