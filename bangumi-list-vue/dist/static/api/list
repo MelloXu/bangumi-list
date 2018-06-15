@@ -70,5 +70,23 @@
         "watch_link": "https://www.bilibili.com/bangumi/media/md1574",
         "time": "2015.04",
         "is_finished": false
+    },
+    {
+        "name": "金田一少年事件簿R 2期",
+        "caption": "金田一少年事件簿R 2期",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/32/a8/139950_rp2fr.jpg",
+        "link": "http://bangumi.tv/subject/139950",
+        "watch_link": "http://www.iqiyi.com/a_19rrhb2729.html",
+        "time": "2015.10",
+        "is_finished": false
+    },
+    {
+        "name": "终物语",
+        "caption": "高三的十月下旬，神原骏河向高中三年级的阿良良木历介绍一位转校生——忍野扇。放学后，忍野扇开始说一些奇怪的事情。她曾转学过很多次，并将每一次到过的校舍都画成地图。他发现三楼的视听室被拉长，也许有隐藏的房间。扇和历发现隐藏的房间，进去之后里面停止的时钟和推不动的门窗，一切就像停止了一样…这是解开阿良良木历构成之谜的物语，是知晓一切起点的物语。",
+        "img_src": "http://lain.bgm.tv/pic/cover/l/b0/4d/138829_QtBqr.jpg",
+        "link": "http://bangumi.tv/subject/138829",
+        "watch_link": "https://www.bilibili.com/bangumi/media/md2747",
+        "time": "2015.10",
+        "is_finished": false
     }
 ]
