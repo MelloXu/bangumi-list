@@ -1,7 +1,7 @@
 # bangumi-list
 希的补番列表(vue版本)
 
-在线预览页面: [点这里](https://yukinya.github.io/bangumi-list/bangumi-list-vue/dist)
+在线预览页面: [点这里](https://MelloXu.github.io/bangumi-list/bangumi-list-vue/dist)
 
 > A Vue.js project
 
